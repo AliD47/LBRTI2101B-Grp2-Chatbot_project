@@ -1,4 +1,6 @@
-# chatbot_LBRTI2101B-
+# chatbot LBRTI2101B
+## Data Science in bioscience engineering- Partim B
+---
 
 this is a repo for the codes and datasets used for the chatbot for Data Science in bioscience engineering- Partim B LBRTI2101B course.
 
