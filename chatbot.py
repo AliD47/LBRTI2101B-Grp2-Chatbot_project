@@ -262,7 +262,7 @@ def tree_to_code(tree, feature_names):
             type_out("\n"+"I will ask you about some related symptoms now")
             readn("I will ask you about some related symptoms now")
             type_out("are you having:")
-            readn("are you having:")
+            readn("are you having:"+"\n")
             symptoms_exp=[]
             for syms in list(symptoms_given):
                 inp=""
