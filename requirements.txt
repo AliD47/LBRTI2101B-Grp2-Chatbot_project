@@ -1,0 +1,10 @@
+re
+pandas
+pyttsx3
+scikit-learn
+numpy
+csv
+warnings
+sys
+time
+datetime
